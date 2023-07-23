@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bd19a36a-bd2d-47cd-80fe-060671585113" name="Changes" comment="Дз2.14 на проверку">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntegerList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringListImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntegerListImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntegerListImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntegerListImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,18 +38,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
@@ -79,6 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1689540754282</updated>
       <workItem from="1689540755560" duration="5757000" />
+      <workItem from="1690141369071" duration="1291000" />
     </task>
     <task id="LOCAL-00001" summary="Дз2.14">
       <created>1689540852945</created>
